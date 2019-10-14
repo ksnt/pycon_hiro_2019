@@ -1,0 +1,2 @@
+# pycon_hiro_2019
+PyCon mini Hiroshima 2019でお話させていただいた「Pythonでアルゴレイヴの世界に足を踏み入れる」のためのリポジトリです
