@@ -12,6 +12,11 @@ PyCon mini Hiroshima 2019でお話させていただいた「Pythonでアルゴ�
 [当日の配信映像の記録](https://youtu.be/w11ecjRRB_M?t=4377)
 
 
+### 解説ブログ
+
+TBA
+
+
 ### ファイル構成
 
 FoxDot/`livecoding_191012.py`: ライブコーディングの際に用いたFoxDot用のコードの原型です。たぶん当日のものとは少しだけ違うものになっています。
